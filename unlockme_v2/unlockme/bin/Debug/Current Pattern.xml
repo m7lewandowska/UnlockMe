@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CurrentLockPattern xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pattern>
+    <Field>
+      <X>0</X>
+      <Y>0</Y>
+    </Field>
+    <Field>
+      <X>0</X>
+      <Y>1</Y>
+    </Field>
+    <Field>
+      <X>0</X>
+      <Y>2</Y>
+    </Field>
+    <Field>
+      <X>1</X>
+      <Y>0</Y>
+    </Field>
+    <Field>
+      <X>1</X>
+      <Y>1</Y>
+    </Field>
+  </Pattern>
+  <FieldSize>3x3</FieldSize>
+</CurrentLockPattern>
